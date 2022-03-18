@@ -1,0 +1,4 @@
+---
+name: 'King'
+slug: 'king'
+---
