@@ -12,13 +12,13 @@
         <div data-aos="fade-up" class="mb-16 lg:my-40 lg:max-w-lg lg:pr-5">
           <div class="max-w-xl mb-6">
             <h2
-              class="max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight text-indigo-900 sm:text-4xl sm:leading-none"
+              class="max-w-lg mb-6 font-sans text-5xl font-bold tracking-tight text-indigo-900 sm:text-5xl sm:leading-none"
             >
               TU PROYECTO EN LAS MEJORES MANOS<br class="hidden md:block" />
               CON NUESTRAS
               <span class="inline-block text-red-600">SOLUCIONES</span>
             </h2>
-            <p class="text-base font-bold text-gray-900 md:text-lg">
+            <p class="text-base font-bold text-gray-900 md:text-xl">
               Diseñamos, fabricamos o equipamos tu proyecto.
               <span class="inline-block font-bold text-red-600 uppercase"
                 >cocinas, restaurantes, hoteles, vehículos</span
@@ -31,7 +31,7 @@
           <div class="flex flex-col items-center md:flex-row">
             <a
               href="/"
-              class="inline-flex items-center justify-center w-full h-12 px-6 mb-3 font-medium tracking-wide text-white transition duration-200 rounded shadow-md md:w-auto md:mr-4 md:mb-0 bg-indigo-900 hover:bg-red-600 focus:shadow-outline focus:outline-none"
+              class="inline-flex items-center justify-center w-full h-12 px-6 mb-3 font-medium tracking-wide text-white transition duration-200 rounded shadow-md md:w-auto md:mr-4 md:mb-0 bg-indigo-900 hover:bg-red-600 focus:shadow-outline focus:outline-none text-2xl"
             >
               CONTÁCTANOS
             </a>

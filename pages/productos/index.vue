@@ -1,6 +1,6 @@
 <template>
   <div class="bg-gradient-to-bl from-gray-400 via-gray-100 to-gray-400">
-    <div class="py-12">
+    <div class="py-12 bg-gradient-to-bl from-gray-400 via-gray-100 to-gray-400">
       <section
         class="text-6xl font-bold text-gray-900 tracking-wide text-center font-bold underline-offset-8"
       >
@@ -10,9 +10,9 @@
     <!--PROMOCIONES-->
     <section class="text-gray-900 body-font font-bold">
       <div
-        class="container px-5 py-8 mx-auto bg-gradient-to-r from-red-500 to-red-800 rounded-lg shadow-lg"
+        class="container px-5 py-8 mx-auto bg-gradient-to-b from-red-500 to-red-800 shadow-lg"
       >
-        <h1 class="py-2 text-white text-2xl mb-4">PROMOCIONES</h1>
+        <h1 class="py-2 text-white text-4xl mb-4">PROMOCIONES</h1>
         <div class="flex flex-wrap -m-4">
           <div
             v-for="producto in promociones"
@@ -51,8 +51,10 @@
     </section>
 
     <section class="text-gray-900 body-font font-bold">
-      <div class="container px-5 py-24 mx-auto">
-        <h1 class="py-2">LOBO MX</h1>
+      <div
+        class="container px-5 py-24 mx-auto bg-gradient-to-bl from-gray-400 via-gray-100 to-gray-400 rounded shadow"
+      >
+        <h1 class="py-2 text-4xl mb-4">LOBO MX</h1>
         <div class="flex flex-wrap -m-4">
           <div
             v-for="producto in loboMx"
@@ -92,8 +94,10 @@
     </section>
 
     <section class="text-gray-900 body-font font-bold">
-      <div class="container px-5 py-24 mx-auto">
-        <h1 class="py-2">KING MASTER</h1>
+      <div
+        class="container px-5 py-24 mx-auto bg-gradient-to-bl from-gray-400 via-gray-100 to-gray-400 rounded shadow"
+      >
+        <h1 class="py-2 text-4xl mb-4">KING MASTER</h1>
         <div class="flex flex-wrap -m-4">
           <div
             v-for="producto in kingMaster"
@@ -133,8 +137,10 @@
     </section>
 
     <section class="text-gray-900 body-font font-bold">
-      <div class="container px-5 py-24 mx-auto">
-        <h1 class="py-2">KING</h1>
+      <div
+        class="container px-5 py-24 mx-auto bg-gradient-to-bl from-gray-400 via-gray-100 to-gray-400 rounded shadow"
+      >
+        <h1 class="py-2 text-4xl mb-4">KING</h1>
         <div class="flex flex-wrap -m-4">
           <div
             v-for="producto in king"
@@ -174,8 +180,10 @@
     </section>
 
     <section class="text-gray-900 body-font font-bold">
-      <div class="container px-5 py-24 mx-auto">
-        <h1 class="py-2">ESPECIALES</h1>
+      <div
+        class="container px-5 py-24 mx-auto bg-gradient-to-bl from-gray-400 via-gray-100 to-gray-400 rounded shadow"
+      >
+        <h1 class="py-2 text-4xl mb-4">ESPECIALES</h1>
         <div class="flex flex-wrap -m-4">
           <div
             v-for="producto in especiales"

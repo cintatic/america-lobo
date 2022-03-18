@@ -11,7 +11,7 @@
             <nuxt-img format="webp" src="/img/logos/Logo-al.png" />
           </div>
         </NuxtLink>
-        <ul class="flex items-center hidden space-x-8 lg:flex">
+        <ul class="flex items-center hidden space-x-8 lg:flex text-2xl">
           <li>
             <NuxtLink
               to="/productos"

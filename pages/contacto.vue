@@ -87,9 +87,7 @@
             </a>
           </li>
         </ul>
-        <p class="text-xs text-gray-500 mt-3">
-          Encuentra nuestros enlaces en el pie de pagina!
-        </p>
+        <p class="text-xs text-gray-500 mt-3"></p>
       </div>
     </div>
   </section>
