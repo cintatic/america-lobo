@@ -57,13 +57,13 @@
       <div class="flex flex-col mb-6 lg:justify-between lg:flex-row md:mb-8">
         <h2
           data-aos="fade-up"
-          class="max-w-lg mb-5 font-sans text-3xl font-bold tracking-tight text-red-600 sm:text-4xl sm:leading-none md:mb-6 group"
+          class="max-w-lg mb-5 font-sans font-bold tracking-tight text-red-600 text-5xl sm:leading-none md:mb-6 group"
         >
-          <span class="inline-block mb-1 sm:mb-4"> LINEAS DE PRODUCCION </span>
+          <span class="inline-block mb-1 sm:mb-4">LINEAS DE PRODUCCION </span>
           <div
             class="h-1 ml-auto duration-300 origin-left transform bg-deep-purple-accent-400 scale-x-30 group-hover:scale-x-100"
           ></div>
-          <p class="text-indigo-900 lg:text-base lg:max-w-md">
+          <p class="text-indigo-900 text-2xl">
             Fabricación y diseño de cocinas industriales
           </p>
         </h2>
@@ -188,7 +188,7 @@
       >
         <div class="flex flex-col mb-6 lg:justify-between lg:flex-row md:mb-8">
           <h2
-            class="max-w-lg mb-5 font-sans text-3xl font-bold tracking-tight text-red-600 sm:text-4xl sm:leading-none md:mb-6 group"
+            class="max-w-lg mb-5 font-sans font-bold tracking-tight text-red-600 text-5xl sm:leading-none md:mb-6 group"
           >
             <span data-aos="fade-up" class="inline-block mb-1 sm:mb-4">
               MARCAS</span
@@ -196,10 +196,7 @@
             <div
               class="h-1 ml-auto duration-300 origin-left transform scale-x-30 group-hover:scale-x-100"
             ></div>
-            <p
-              data-aos="fade-up"
-              class="text-indigo-900 lg:text-base lg:max-w-md"
-            >
+            <p data-aos="fade-up" class="text-indigo-900 text-2xl lg:max-w-md">
               Algunas de las marcas con las que trabajamos.
             </p>
           </h2>
@@ -211,7 +208,7 @@
           <div class="px-12 text-center sm:px-0">
             <div class="flex items-center justify-center mx-auto mb-4">
               <nuxt-img
-                class="w-28"
+                class="w-36"
                 format="webp"
                 src="/img/marcas/imbera.png"
               />
@@ -220,7 +217,7 @@
           <div class="px-12 text-center sm:px-0">
             <div class="flex items-center justify-center mx-auto mb-4">
               <nuxt-img
-                class="w-32"
+                class="w-44"
                 format="webp"
                 src="/img/marcas/migsa.png"
               />
@@ -229,7 +226,7 @@
           <div class="px-12 text-center sm:px-0">
             <div class="flex items-center justify-center mx-auto mb-4">
               <nuxt-img
-                class="w-48"
+                class="w-52"
                 format="webp"
                 src="/img/marcas/rhino.png"
               />
@@ -238,7 +235,7 @@
           <div class="px-12 text-center sm:px-0">
             <div class="flex items-center justify-center mx-auto mb-4">
               <nuxt-img
-                class="w-48"
+                class="w-52"
                 format="webp"
                 src="/img/marcas/mexcut.png"
               />
@@ -247,7 +244,7 @@
           <div class="px-12 text-center sm:px-0">
             <div class="flex items-center justify-center mx-auto mb-4">
               <nuxt-img
-                class="w-40"
+                class="w-44"
                 format="webp"
                 src="/img/marcas/turmix.png"
               />

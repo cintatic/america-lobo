@@ -2,16 +2,18 @@
   <section
     class="text-gray-601 body-font bg-gradient-to-bl from-gray-400 via-gray-100 to-gray-400"
   >
-    <div class="container px-6 py-24 mx-auto">
+    <div class="container px-6 py-12 mx-auto">
       <div class="flex flex-wrap w-full mb-21">
         <div class="lg:w-2/2 w-full mb-6 lg:mb-0">
           <h1
-            class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900"
+            class="sm:text-6xl text-6xl text-center font-bold title-font mb-2 text-gray-900"
           >
             BLOG
           </h1>
         </div>
-        <p class="lg:w-2/2 w-full leading-relaxed text-gray-500">
+        <p
+          class="lg:w-2/2 w-full leading-relaxed text-center text-gray-700 mb-6"
+        >
           Ponte al tanto de nuestras noticias, tendencias e información
           importante a traveś de nuestro blog.
         </p>

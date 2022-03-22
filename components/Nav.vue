@@ -1,6 +1,6 @@
 <template>
   <div
-    class="bg-gradient-to-b from-gray-300 via-gray-400 to-gray-300 shadow-lg z-30"
+    class="bg-gradient-to-b from-gray-400 via-gray-100 to-gray-400 shadow-lg z-30"
   >
     <div
       class="px-4 py-5 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen md:px-24 lg:px-8"

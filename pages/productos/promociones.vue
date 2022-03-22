@@ -3,16 +3,17 @@
     <div class="mt-12">
       <section
         class="text-6xl font-bold text-gray-900 tracking-wide text-center font-bold underline-offset-8"
-      ></section>
+      >
+        PROMOCIONES
+      </section>
     </div>
     <section class="text-gray-600 body-font">
       <div class="container px-5 py-24 mx-auto">
-        <h1 class="py-2">PROMOCIONES</h1>
         <div class="flex flex-wrap -m-4">
           <div
             v-for="producto in promociones"
             :key="producto.name"
-            class="lg:w-1/5 md:w-1/2 p-4 w-full"
+            class="lg:w-1/3 md:w-1/2 p-4 w-full"
           >
             <div>
               <NuxtLink

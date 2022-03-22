@@ -3,11 +3,12 @@
     <div class="mt-12">
       <section
         class="text-6xl font-bold text-gray-900 tracking-wide text-center font-bold underline-offset-8"
-      ></section>
+      >
+        KING
+      </section>
     </div>
     <section class="text-gray-900 font-bold body-font">
       <div class="container px-5 py-24 mx-auto">
-        <h1 class="py-2">KING</h1>
         <div class="flex flex-wrap -m-4">
           <div
             v-for="producto in king"
