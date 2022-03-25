@@ -2,7 +2,7 @@
   <div>
     <div class="mt-12">
       <section
-        class="text-6xl font-bold text-gray-900 tracking-wide text-center font-bold underline-offset-8"
+        class="text-4xl md:text-6xl font-bold text-gray-900 tracking-wide text-center font-bold underline-offset-8"
       >
         PROMOCIONES
       </section>

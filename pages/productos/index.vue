@@ -2,7 +2,7 @@
   <div class="bg-gradient-to-bl from-gray-400 via-gray-100 to-gray-400">
     <div class="py-12 bg-gradient-to-bl from-gray-400 via-gray-100 to-gray-400">
       <section
-        class="text-6xl font-bold text-gray-900 tracking-wide text-center font-bold underline-offset-8"
+        class="text-4xl md:text-6xl font-bold text-gray-900 tracking-wide text-center font-bold underline-offset-8"
       >
         PRODUCTOS
       </section>
@@ -101,7 +101,7 @@
         <div class="flex flex-wrap -m-4">
           <div
             v-for="producto in kingMaster"
-            :key="producto.name"
+            :key="producto.model"
             class="lg:w-1/4 md:w-1/2 p-4 w-full"
           >
             <div>

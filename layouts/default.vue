@@ -1,16 +1,16 @@
 <template>
   <div class="">
     <Nav />
-    <link
-      rel="stylesheet"
-      href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"
-    />
+
     <a
-      href="https://api.whatsapp.com/send?phone=51955081075&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20Varela%202."
+      href="https://api.whatsapp.com/send?phone=525532156875&text=%C2%A1Hola!%20Me%20gustar%C3%ADa%20cotizar%20un%20equipo.%20"
       class="float"
       target="_blank"
     >
-      <i class="fa fa-whatsapp my-float"></i>
+      <font-awesome-icon
+        :icon="['fab', 'whatsapp']"
+        class="fa fa-whatsapp my-float text-white"
+      />
     </a>
     <Nuxt />
     <Footer />

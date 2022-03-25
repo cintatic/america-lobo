@@ -12,7 +12,11 @@
               title="Company"
               class="inline-flex items-center"
             >
-              <nuxt-img src="/img/logos/Logo-al.png" class="mx-auto" />
+              <nuxt-img
+                src="/img/logos/Logo-al.png"
+                format="webp"
+                class="mx-auto"
+              />
             </a>
             <p
               class="text-sm text-center text-gray-200 mt-4 italic font-semibold"
@@ -124,17 +128,17 @@
             >
           </li>
           <li>
-            <a
-              href="/"
+            <NuxtLink
+              to="/politica-privacidad"
               class="text-sm text-gray-500 transition-colors duration-300 hover:text-red-500"
-              >Privacy Policy</a
+              >Privacy Policy</NuxtLink
             >
           </li>
           <li>
-            <a
-              href="/"
+            <NuxtLink
+              to="/terminos-condiciones"
               class="text-sm text-gray-500 transition-colors duration-300 hover:text-red-500"
-              >Terms &amp; Conditions</a
+              >Terms &amp; Conditions</NuxtLink
             >
           </li>
         </ul>

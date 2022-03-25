@@ -2,7 +2,7 @@
   <div>
     <div class="mt-12">
       <section
-        class="text-6xl font-bold text-gray-900 tracking-wide text-center font-bold underline-offset-8"
+        class="text-4xl md:text-6xl font-bold text-gray-900 tracking-wide text-center font-bold underline-offset-8"
       >
         ESPECIALES
       </section>
@@ -13,7 +13,7 @@
           <div
             v-for="producto in especiales"
             :key="producto.name"
-            class="lg:w-1/5 md:w-1/2 p-4 w-full"
+            class="lg:w-1/4 md:w-1/2 p-4 w-full"
           >
             <div>
               <NuxtLink

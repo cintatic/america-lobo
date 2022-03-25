@@ -60,7 +60,7 @@
           </li>
           <li>
             <a
-              href="https://api.whatsapp.com/send?phone=528134421227&text=%C2%A1Hola!%20Me%20gustar%C3%ADa%20agendar%20una%20cita.%20"
+              href="https://api.whatsapp.com/send?phone=525532156875&text=%C2%A1Hola!%20Me%20gustar%C3%ADa%20cotizar%20un%20equipo.%20"
             >
               <font-awesome-icon
                 class="text-3xl text-indigo-900 hover:text-red-500"
@@ -179,7 +179,7 @@
                         />
                       </a>
                       <a
-                        href="https://api.whatsapp.com/send?phone=528134421227&text=%C2%A1Hola!%20Me%20gustar%C3%ADa%20agendar%20una%20cita.%20"
+                        href="https://api.whatsapp.com/send?phone=525532156875&text=%C2%A1Hola!%20Me%20gustar%C3%ADa%20cotizar%20un%20equipo.%20"
                       >
                         <font-awesome-icon
                           class="text-3xl mx-5 text-indigo-900"

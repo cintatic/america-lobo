@@ -30,7 +30,7 @@
           </div>
           <div class="flex flex-col items-center md:flex-row">
             <a
-              href="/"
+              href="https://api.whatsapp.com/send?phone=525532156875&text=%C2%A1Hola!%20Me%20gustar%C3%ADa%20cotizar%20un%20equipo.%20"
               class="inline-flex items-center justify-center w-full h-12 px-6 mb-3 font-medium tracking-wide text-white transition duration-200 rounded shadow-md md:w-auto md:mr-4 md:mb-0 bg-indigo-900 hover:bg-red-600 focus:shadow-outline focus:outline-none text-2xl"
             >
               CONTÁCTANOS
@@ -76,7 +76,8 @@
           <div
             class="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl"
           >
-            <img
+            <nuxt-img
+              format="webp"
               class="object-cover w-full h-56 md:h-64 xl:h-80"
               src="/img/pll.jpg"
               alt=""
@@ -98,7 +99,8 @@
           <div
             class="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl"
           >
-            <img
+            <nuxt-img
+              format="webp"
               class="object-cover w-full h-56 md:h-64 xl:h-80"
               src="/img/plk.jpg"
               alt=""
@@ -119,7 +121,8 @@
           <div
             class="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl"
           >
-            <img
+            <nuxt-img
+              format="webp"
               class="object-cover w-full h-56 md:h-64 xl:h-80"
               src="/img/plkm.jpg"
               alt=""
@@ -142,7 +145,7 @@
           <div
             class="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl"
           >
-            <img
+            <nuxt-img
               format="webp"
               class="object-cover w-full h-56 md:h-64 xl:h-80"
               src="/img/pe.jpg"
@@ -165,7 +168,7 @@
         <Nuxt-Link
           to="/productos"
           aria-label=""
-          class="inline-flex items-center font-semibold transition-colors duration-200 text-red-600 hover:text-indigo-900"
+          class="text-2xl inline-flex items-center font-semibold transition-colors duration-200 text-red-600 hover:text-indigo-900"
         >
           P R O D U C T O S
           <svg

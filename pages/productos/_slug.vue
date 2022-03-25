@@ -24,11 +24,12 @@
                 class="flex mt-6 items-center pb-5 border-b-2 border-gray-100 mb-5"
               ></div>
               <div class="flex">
-                <button
+                <a
+                  href="https://api.whatsapp.com/send?phone=525532156875&text=%C2%A1Hola!%20Me%20gustar%C3%ADa%20cotizar%20un%20equipo.%20"
                   class="flex ml-auto text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded"
                 >
                   COTIZA
-                </button>
+                </a>
               </div>
             </div>
           </div>
